@@ -1,1 +1,1 @@
-# Hello, were Scuffle 👋
+# Hey, were Scuffle 👋
